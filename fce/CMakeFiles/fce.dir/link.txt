@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfce.a  CMakeFiles/fce.dir/fce.cpp.o CMakeFiles/fce.dir/rtGetInf.cpp.o CMakeFiles/fce.dir/rtGetNaN.cpp.o CMakeFiles/fce.dir/rt_nonfinite.cpp.o
+/usr/bin/ranlib libfce.a
